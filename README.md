@@ -1,4 +1,4 @@
-﻿# AAI Loaders: Krastorio 2 Costs
+﻿# AAI Loaders: Krastorio 2 Costs 2.1
 
 Makes all loaders created by [Earendel's AAI Loaders](https://mods.factorio.com/mod/aai-loaders) mod
 cheaper to craft, by changing their recipes to be similar to Krastorio 2.
@@ -17,5 +17,6 @@ cheaper to craft, by changing their recipes to be similar to Krastorio 2.
 
 - Wube, for the awesome game
 - Earendel, for awesome standalone loaders mod
-- Sauravisus, for the AAI Loaders: Reduced Cost mod, which this is a fork of
+- Sauravisus, for the AAI Loaders: Reduced Cost mod
 - raiguard, Krastor, and Linver, for Krastorio 2
+- GraithTiger for the original AAI Loaders: Krastorio 2 Costs mod, which this is a fork of
