@@ -1,12 +1,58 @@
-# Compiled Lua sources
+# Editors #
+## Visual Studio Code ##
+### Workspace Folder ###
+/.vscode/**
+
+### Exceptions ###
+!/.vscode/extensions.json
+!/.vscode/launch.json
+!/.vscode/tasks.json
+!/.vscode/*.code-snippets
+!/.vscode/*.code-workspace
+
+## Vim ##
+### Swap ###
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]*.s[a-rt-v][a-z]
+[._]*.ss[a-gi-z]
+[._]sw[a-p]
+
+### Session ###
+Session.vim
+Sessionx.vim
+
+### Temporary Files ###
+.netrwhist
+*~
+
+### Auto-generated Tag Files ###
+tags
+ctags
+
+### Undo Persistence ###
+[._]*.un~
+
+# Logs #
+*.log*
+
+# Environment #
+## General ##
+**/.env*
+
+# Cache #
+## CSpell ##
+.cspellcache
+
+# Compiled Lua Sources
 luac.out
 
-# luarocks build files
+# luarocks Build Files
 *.src.rock
 *.zip
 *.tar.gz
 
-# Object files
+# Object Files
 *.o
 *.os
 *.ko
@@ -25,7 +71,7 @@ luac.out
 *.def
 *.exp
 
-# Shared objects (inc. Windows DLLs)
+# Shared Objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
@@ -38,4 +84,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
