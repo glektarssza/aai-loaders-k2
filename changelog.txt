@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 2026-09-13
+  Changes
+    - Updated dependencies to enforce Factorio 2.1 as a requirement.
+    - Added this changelog.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2026-09-13
+  Changes
+    - Updated to work with Factorio 2.1.
