@@ -1,6 +1,6 @@
 {
     "name": "aai-loaders-k2-2_1",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "title": "AAI Loaders: Krastorio 2 Costs (Factorio 2.1)",
     "author": "glektarssza",
     "dependencies": [
